@@ -1,7 +1,4 @@
  # -*- coding: UTF-8 -*-
-
-print ("Hello")
-
 from datetime import date
 import os.path
 import time
